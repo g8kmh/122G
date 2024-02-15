@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T10:50:37.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EwnJrthLkZ8C8x853Oxt" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T10:54:34.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cx-wr8OWZHwvwbwEfXgj" version="23.1.4" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -215,6 +215,20 @@
               <mxPoint x="760" y="40" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zk5Tj1fj6JuDacKhQGvg-30" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.coaxial_jack_plug;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="280" y="950" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zk5Tj1fj6JuDacKhQGvg-34" value="100 MHz&lt;br&gt;IF" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zk5Tj1fj6JuDacKhQGvg-8" target="zk5Tj1fj6JuDacKhQGvg-30">
+          <mxGeometry x="-0.5789" y="-20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk5Tj1fj6JuDacKhQGvg-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zk5Tj1fj6JuDacKhQGvg-35" target="zk5Tj1fj6JuDacKhQGvg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zk5Tj1fj6JuDacKhQGvg-35" value="DC Tune IN" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.connector;" vertex="1" parent="1">
+          <mxGeometry x="16" y="950" width="44" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
