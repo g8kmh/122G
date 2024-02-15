@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T10:18:15.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="61xVGmXejBp8ZExrBlLm" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T10:22:54.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="n8u1jaTBOghFjXnKfqJz" version="23.1.4" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -113,15 +113,17 @@
         <mxCell id="zk5Tj1fj6JuDacKhQGvg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="100" y="1080" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zk5Tj1fj6JuDacKhQGvg-3" value="&lt;br&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="1180" as="sourcePoint" />
-            <mxPoint x="390" y="1120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="410" y="1180" />
-              <mxPoint x="360" y="1130" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="zk5Tj1fj6JuDacKhQGvg-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=3.1;dx=33.2;notch=0;arrowHead=12.4;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1060" width="65" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zk5Tj1fj6JuDacKhQGvg-5" value="20dB&lt;br&gt;Coupler&lt;br&gt;UG387/U" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zk5Tj1fj6JuDacKhQGvg-7" value="122.4GHz&lt;br&gt;Gunn Osc&lt;br&gt;+13dBm" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zk5Tj1fj6JuDacKhQGvg-8" value="SHM&lt;br&gt;12th Harmonic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
